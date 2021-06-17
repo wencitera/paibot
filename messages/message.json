@@ -1,0 +1,20 @@
+{
+    "errorTemplate": "Something goes wrong :c \nplease contact an Admin\n",
+    "missingArgumentsInfo": "Necesito mas argumentos!",
+    "missingCharacter": "Personaje desconocido",
+    "missingWeapon": "Arma desconocida",
+    "missingArtifact": "Artefactos desconocidos",
+    "missingItem": "Item desconocido",
+
+    "missingPermission": "Debes ser administrador para hacer esto",
+
+    "rememberAlreadyType": "Esto ya está dentro de tu lista de recordatorios",
+    "rememberSuccessType": "Recordaré esto por ti, te avisare los dias para farmear",
+    "rememberRemoveType": "Sacando de tu lista de recoradtorios...",
+    "rememberMissingType": "No tienes esto en tu lista de recordatorio",
+    "rememberUnknownType": "Esta arma/personaje no existe!",
+
+    "missingAnnouncementChannel": "No tienes un canal de anuncios diarios",
+
+    "helpInfo": "**Info commands:** \n-g ic <Character Name>\n-g iw <Weapon Name>\n-g ii <Item Name>\n-g ia <Artifact Name>"
+}

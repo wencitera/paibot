@@ -1,0 +1,27 @@
+{
+    "helpAlises": ["h", "help"],
+
+    "infoCharacterAliases": ["infocharacter", "ic", "character", "chr"],
+    "infoWeaponAliases": ["infoweapon", "iw", "weapon", "wpn"],
+    "infoArtifactAliases": ["infoartifact", "ia", "artifact", "art"],
+    "infoTalentAliases": ["talents", "t"],
+    "infoConstellationsAliases": ["constellations", "c"],
+    "infoTalentMaterialAliases": ["talentmaterials", "tm"],
+    "infoWeaponMaterialAliases": ["weaponmaterials", "wm"],
+
+    "reminderAliases": ["remind", "remember", "r"],
+    "reminderRemoveAliases": ["remindremove", "rememberremove", "rr"],
+    "reminderListAlias": ["remindlist", "rememberlist", "rl"],
+
+    "setAnnouncementChannelAliases": ["setannouncementchannel", "sac"],
+    "removeAnnouncementChannelAliases": ["removeannouncementchannel", "rac"],
+
+    "todayFarmAliases": ["today", "todayfarm", "tf"],
+
+    "supportAliases": ["support", "s"],
+    "donateAliases": ["donate", "d"],
+
+    "listCharacterAliases": ["lc","listchar","listcharacters"],
+    "listArtifactAliases": ["la","listartifacts"],
+    "listWeaponAliases": ["lw", "listweapons"]
+}

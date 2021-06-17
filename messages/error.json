@@ -1,0 +1,6 @@
+{
+    "errorCharacter": "Code error 01",
+    "errorWeapon": "Code error 02",
+    "errorArtifact": "Code error 03",
+    "errorItem": "Code error 04"
+}
